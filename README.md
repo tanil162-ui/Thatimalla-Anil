@@ -98,8 +98,8 @@
   <section class="contact">
     <h2>Contact</h2>
     <p><b>Location:</b> Naidupeta, Tirupati District, Andhra Pradesh</p>
-    <p><b>Email:</b> example@email.com</p>
-    <p><b>Phone:</b> +91 90000 00000</p>
+    <p><b>Email:</b> tanil162@gmail.com</p>
+    <p><b>Phone:</b> +91 91823 65923</p>
   </section>
 
   <!-- Footer -->
